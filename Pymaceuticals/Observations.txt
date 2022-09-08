@@ -1,0 +1,7 @@
+My 3 observations based on the following:
+
+- Box plots: regimens Capomulin and Ramicane are better than regimens Infubinol and Ceftamin in lowering the final tumour volume in mice.
+
+- Line chart: Regimen Capomulin was successful in reducingg the tumour volume in mouse "s185" from 45 mm3 to lower than 25 mm3 for timepoints between 0 to about 45.
+
+- Scatter Plot: the r-value for the tumour volume vs. mouse weight is 0.526, which means that the weight of the mouse has a medium effect on the tumour volume found. 
